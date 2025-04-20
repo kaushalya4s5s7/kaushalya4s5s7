@@ -7,11 +7,7 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/kaushaly4s5s7" target="blank">
-    <img src="https://img.shields.io/twitter/follow/kaushaly4s5s7?logo=twitter&style=for-the-badge" alt="kaushaly4s5s7" />
-  </a>
-</p>
+
 
 - 🌱 I’m currently learning **Web3 and diving into the core of Web2 development**
 
