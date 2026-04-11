@@ -1,10 +1,4 @@
-<div align="center">
-  <img height="140" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</div>
-
-<h1 align="center">KC's Web3 World ⚡</h1>
-
-<h1 align="center">Kaushal Chaudhari — Web3 Engineer ⚡</h1>
+<h1 align="center">Kaushal Chaudhari - Web3 Engineer ⚡</h1>
 <p align="center">
   Full Stack Web3 Developer • Protocol Engineer • Product Builder • Hackathon Hacker
 </p>
