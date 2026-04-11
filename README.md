@@ -2,98 +2,124 @@
   <img height="140" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
-<h1 align="center">KC's Web3 World</h1>
-<div align="center">
-  <img height="140" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</div>
-
 <h1 align="center">KC's Web3 World ⚡</h1>
 
+<h1 align="center">Kaushal Chaudhari — Web3 Engineer ⚡</h1>
 <p align="center">
-  <b>Kaushal Chaudhari</b> • Full Stack Web3 Developer • Protocol Engineer • Hacker • Builder
+  Full Stack Web3 Developer • Protocol Engineer • Product Builder • Hackathon Hacker
 </p>
 
 <p align="center">
-  CS @ IIIT Guwahati (2022–2026) <br />
-  Building secure, scalable, and production-ready decentralized systems.
+  I build real on-chain products — not demos. <br/>
+  From wallet-first UX to protocol-grade smart contracts and backend automation.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## `whoami`
 
-I’m a **full stack Web3 developer** and **protocol-focused engineer** who loves turning complex blockchain ideas into real products.  
-My core work spans:
+I’m **Kaushal (KC)**, a developer-engineer hybrid focused on the intersection of:
 
-- **dApp Frontends** with smooth wallet UX
-- **Smart contracts** for real-world business logic
-- **Protocol-level architecture** for compliance, privacy, and interoperability
-- **Backend automation** tightly synced with on-chain state
+- **Product-quality dApps**
+- **Protocol-level blockchain design**
+- **Secure smart contract systems**
+- **Execution speed under real constraints**
 
-I enjoy shipping fast, hacking hard, and building systems that actually survive production.
-
----
-
-## 🧠 What I Do Best
-
-- 🛠️ Build high-performance dApps with **React / Next.js / TypeScript**
-- 🔐 Engineer secure smart contract systems in **Solidity**
-- 🧩 Design modular protocol flows for **RWA, identity, and payroll**
-- 🌉 Integrate multi-chain infra (EVM + Stellar ecosystems)
-- ⚙️ Build backend services for monitoring, automation, and execution
-- 🚀 Prototype fast, iterate hard, and deliver working products
+I love solving hard problems across the full stack: frontend polish, smart contract correctness, infra reliability, and shipping velocity.
 
 ---
 
-## ⚒️ Tech Stack
+## Core Identity (my engineering essence)
 
-### Frontend
-`React` • `Next.js` • `TypeScript` • `Tailwind CSS` • `Vite` • `GraphQL (familiar)` • `React Native (familiar)`
-
-### Web3 / Protocol
-`Solidity` • `Hardhat` • `Foundry` • `OpenZeppelin` • `Ethers.js` • `Web3.js` • `Wagmi` • `WalletConnect`
-
-### Backend / Infra
-`Node.js` • `NestJS` • `Express` • `Prisma` • `PostgreSQL` • `MongoDB` • `AWS` • `IPFS`
-
-### Advanced Areas
-`DID / Verifiable Credentials` • `ERC-3643 (T-REX)` • `ZK Proofs` • `Cross-chain execution`
+- **Builder mindset:** Ship fast, iterate faster, keep users at the center.
+- **Protocol thinking:** Design systems with trust, compliance, and composability in mind.
+- **Hacker approach:** Break assumptions early, stress test architecture, then harden.
+- **Full-stack ownership:** Frontend, backend, contracts, infra — end to end.
 
 ---
 
-## 🧪 Experience Highlights
+## Tech I Trust
 
-### **PayZoll (ex-PayNova)** — Blockchain Developer & Researcher
-- Led frontend architecture with React + TypeScript + Tailwind
-- Built automated payroll smart contracts for EVM chains
-- Integrated DID + Verifiable Credentials for privacy-centric identity
-- Used Stellar rails for low-cost cross-border transfer flows
-
-### **TheOpenAssets (ex-Credora)** — Protocol & Smart Contract Engineer
-- Implemented full **ERC-3643 (T-REX)** compliance framework
-- Built modular cross-chain execution across Mantle, OneChain, Creditcoin, Stellar
-- Developed backend automation for liquidation monitoring + yield distribution
+**Frontend:** React, Next.js, TypeScript, Tailwind, Vite  
+**Web3:** Solidity, Ethers.js, Wagmi, WalletConnect, Hardhat, Foundry, OpenZeppelin  
+**Backend & Infra:** Node.js, NestJS, Express, Prisma, PostgreSQL, MongoDB, AWS, IPFS  
+**Specialized:** DID/VC, ERC-3643, Cross-chain execution, ZK-enabled workflows (Groth16, Merkle commitments)
 
 ---
 
-## 🚀 Featured Projects
+## Impact Snapshot
 
-### **Meridian Finance** — Privacy-Preserving Bond Protocol
-Production dApp with wallet auth, secure bond lifecycle, and selective disclosure using ZK primitives.  
+### PayZoll (ex-PayNova) — Blockchain Developer & Researcher
+- Led production frontend with wallet connectivity and responsive UX.
+- Built payroll smart contracts for automated salary disbursement.
+- Integrated DID + Verifiable Credentials for privacy-centric identity.
+- Used Stellar rails for low-cost cross-border payment operations.
+
+### TheOpenAssets (ex-Credora) — Protocol & Smart Contract Engineer
+- Implemented **ERC-3643 (T-REX)** for compliant RWA issuance.
+- Built modular execution for Mantle, OneChain, Creditcoin, Stellar.
+- Engineered backend automation for liquidation + yield monitoring.
+
+---
+
+## Projects I’m Proud Of
+
+### Meridian Finance — Privacy-Preserving Bond Protocol
+Production dApp with secure wallet auth and privacy-first bond lifecycle.  
 **Stack:** Stellar Soroban, ZK, Next.js, Node.js, MongoDB
 
-### **Zera** — AI-Powered Smart Contract Platform
-Winner project generating smart contracts, docs, and tests from natural language prompts.  
-**Stack:** Solidity, React, Hardhat, IPFS, Vite, Tailwind
+### Zera — AI-Powered Smart Contract Platform
+Winner project that generates contracts, docs, and tests from prompts.  
+**Stack:** Solidity, React, Hardhat, IPFS, Vite
 
 ---
 
-## 🏆 Achievements
+## Wins
 
-- 🥇 Winner — **BNB Chain Hackathon Q4 (2024)**
-- 🏅 **5x Hackathon Winner** across blockchain ecosystems
-- 🌟 Selected as **BNB Chain Martian (2025)**
+- 🏆 Winner — BNB Chain Hackathon Q4 (2024)
+- 🥇 5x Hackathon Winner across multiple ecosystems
+- 🌟 BNB Chain Martian (2025)
 
+---
+
+## Architecture of Me (Mermaid)
+
+```mermaid
+mindmap
+  root((Kaushal / KC))
+    Roles
+      Full Stack Web3 Developer
+      Protocol Engineer
+      Hacker
+      Builder
+    Strengths
+      Smart Contract Security
+      Wallet UX
+      Protocol Design
+      Automation Systems
+    Stack
+      React
+      Next.js
+      TypeScript
+      Solidity
+      Hardhat
+      Foundry
+      Node.js
+      MongoDB
+      PostgreSQL
+      AWS
+      IPFS
+    Domains
+      EVM
+      Stellar
+      RWA
+      DID-VC
+      ZK
+    Outcomes
+      Production dApps
+      Compliant token systems
+      Cross-chain execution
+      Fast shipping loops
 ---
 
 ## 🤝 Let’s Connect
