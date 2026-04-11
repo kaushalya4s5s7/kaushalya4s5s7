@@ -1,10 +1,10 @@
-<h1 align="center">Kaushal Chaudhari - Web3 Engineer ⚡</h1>
+<h1 align="center">Kaushal (KC) - Yo Engineer ⚡</h1>
 <p align="center">
   Full Stack Web3 Developer • Protocol Engineer • Product Builder • Hackathon Hacker
 </p>
 
 <p align="center">
-  I build real on-chain products — not demos. <br/>
+  I build real on-chain products - not demos. <br/>
   From wallet-first UX to protocol-grade smart contracts and backend automation.
 </p>
 
