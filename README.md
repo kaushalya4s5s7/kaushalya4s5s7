@@ -107,8 +107,8 @@ mindmap
       EVM
       Stellar
       RWA
-      DID-VC
-      ZK
+      Institutional Defi
+      Privacy Infra
     Outcomes
       Production dApps
       Compliant token systems
