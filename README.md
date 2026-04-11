@@ -117,7 +117,7 @@ mindmap
 ``` 
 ---
 
-## 🤝 Let’s Connect
+## lets build something
 
 - 📧 **Email:** [chaudharikaushal02@gmail.com](mailto:chaudharikaushal02@gmail.com)
 - 💼 **LinkedIn:** [kaushal-chaudhari-21b83a1b0](https://linkedin.com/in/kaushal-chaudhari-21b83a1b0)
@@ -125,15 +125,6 @@ mindmap
 
 ---
 
-<p align="center">
-  <i>“Build boldly. Break assumptions. Ship decentralized.”</i>
-</p>
-<div align="center">
-  <p>
-    CS @ IIIT, Guwahati | Web3 Developer & Hacker ⚡
-    <br />
-    Building (and breaking) banger products for the decentralized web.
-  </p>
-</div>
+
 
 
