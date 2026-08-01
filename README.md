@@ -14,7 +14,7 @@ Most of Web3's hard problems aren't cryptographic — they're about deciding who
 
 **Background:**
 - Founding Engineer, PayZoll (Oct 2024 – Apr 2026) — payroll & cross-border payments infra
-- Agentic Systems & Infrastructure Engineer, TheOpenAssets/Credora (Sep 2025 – Feb 2026) — RWA compliance infra
+- Smart Contract & Infrastructure Engineer, TheOpenAssets/Credora (Sep 2025 – Feb 2026) — RWA compliance infra
 - Winner, Zera (EduChain) and SlashMarket (Tezos EVM Hack), plus BNB Chain Quarterfinals
 - Currently: agentic policy layer + a payment gateway build, both in progress
 
