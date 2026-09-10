@@ -8,7 +8,7 @@ I don't think great engineering is about knowing every tool. It's about **knowin
 
 **Started with hackathons** — learned Web3 by shipping before I was ready. BNB Chain Quarterfinals, EduChain + Tezos EVM wins, and a frankly unhealthy amount of debugging.
 
-**Then came the real builds** — built Pezul/PeNova with friends, pulled multiple all-nighters, broke things, fixed tiny things nobody noticed, and somehow made it win.
+**Then came the real builds** — built Payzoll/PayNova with friend, pulled multiple all-nighters, broke things, fixed tiny things nobody noticed, and somehow made it win.
 
 **Then I got obsessed with what happens underneath** — T-REX / ERC-3643 compliance infra at TheOpenAssets. Permissions, state, async execution, edge cases. Turns out “compliant” is a lot more fun when you actually have to make it work.
 
