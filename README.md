@@ -26,3 +26,5 @@ The agents can write the code.
 Most of my interesting work lives somewhere between architecture, infrastructure, and questionable amounts of caffeine.
 
 If you're building something hard, I'm probably already interested.
+
+email : kaushalchaudhari26@gmail.com
