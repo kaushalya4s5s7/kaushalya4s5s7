@@ -6,6 +6,14 @@ Great engineering is not knowing every tool. It's **knowing what the hell your s
 
 Right now that means three things: **settlement that actually settles**, **compliance that actually enforces**, and **agents that don't get to lie about what they were allowed to do.**
 
+> **Syntax is cheap. Constraints aren't.**
+>
+> I learned backend from first principles — queues, locks, locality, failure domains — so the language is a detail. High concurrency is a queueing problem. Low latency is a locality problem. They are usually enemies. Mixing them up is how you ship a slow distributed monolith.
+>
+> I don't pick a tool because I already know it. Every framework was built for a specific use case; using yours because it's mine is how systems fail to scale.
+>
+> Drop me on a foreign stack. I don't start with the framework. I start with where the bytes wait, where they contend, and what the system is lying about when a write "succeeds." Then I pick the thing this environment actually needs, and I scale from there.
+
 [kaushal.is-cool.dev](https://kaushal.is-cool.dev) · [email](mailto:kaushalchaudhari26@gmail.com) · [linkedin](https://www.linkedin.com/in/kaushal-chaudhari-21b83a1b0) · [x](https://x.com/Kaushaly4s5s7) · [orcid](https://orcid.org/0009-0006-5362-904X)
 
 TypeScript · Solidity · Rust/Soroban · Node · Next.js · PostgreSQL · Redis · Foundry · Stellar/SDP · EVM
@@ -74,8 +82,6 @@ I raise issues when the code already *thinks* it succeeded.
 ---
 
 ## How I work
-
-Most of my interesting work lives between architecture, infrastructure, and money moving.
 
 If a write path has three doors, I check all three. If a status enum has `"failed"`, I don't write the keychain anyway. If the README documents a secrets command that isn't in the binary, that's a bug, not a backlog item.
 
