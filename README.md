@@ -12,9 +12,11 @@ Solidity · Rust/Soroban · TypeScript · Stellar/SDP · EVM · Foundry · Postg
 
 ## Production
 
-**1. [PayZoll](https://github.com/PayZoll-Orgs)** — founding engineer. B2B cross-border payroll on Stellar (USDC/EUROC). JIT FX, unsigned XDR on the server, Freighter sign in-browser. Keys never leave the client. [PRs](https://github.com/PayZoll-Orgs/PayZoll-Stellar-Client-v.1/pulls?q=is%3Apr+author%3Akaushalya4s5s7)
+**1. [PayZoll](https://github.com/PayZoll-Orgs)** — founding engineer. B2B cross-border payroll on Stellar (USDC/EUROC). JIT FX, unsigned XDR on the server, Freighter sign in-browser. Keys never leave the client. The team collectively won **[$100k in XLM from Stellar Community Fund #36](https://medium.com/stellar-community/scf-36-round-recap-b35e675dee10)**. [PRs](https://github.com/PayZoll-Orgs/PayZoll-Stellar-Client-v.1/pulls?q=is%3Apr+author%3Akaushalya4s5s7)
 
 **2. [TheOpenAssets](https://github.com/TheOpenAssets/TOA-Client)** — ERC-3643 / T-REX. Identity-bound transfers, modular compliance, chain-agnostic RWA execution (Mantle, Creditcoin, Stellar). [Client](https://github.com/TheOpenAssets/TOA-Client) · [Server](https://github.com/TheOpenAssets/TOA-Server)
+
+Credora (RWA line): [OneChain 1st, $3k](https://onehackathon.com/1-0/winners) · U2U $4k · Mantle RWA $2k — only winner on that track that was not already funded.
 
 **3. [AgenticOperations](https://github.com/AgenticOperations)** — on-chain policy / spending firewall for autonomous agents. [Casper](https://github.com/AgenticOperations/Casper-AGOPS.Client) ([live](https://aops-casper.up.railway.app)) · [Arc](https://github.com/AgenticOperations/AOPS-PMOA) ([live](https://agentops.up.railway.app))
 
@@ -33,9 +35,9 @@ Contributed as [GanuC555](https://github.com/GanuC555) (34 commits on [Tess-Clie
 ## On-chain work
 
 - **[Loyalty Lock](https://github.com/kaushalya4s5s7/loyalty-lock-hook)** — Uniswap v4 hook. Time-decaying LP exit fee, donated to remaining LPs. Live on Sepolia.
-- **[SlashMarket](https://github.com/kaushalya4s5s7/slashfrontend)** — Tezos L1 + Etherlink L2. PT/YT strip + AI baker selection. [Live](https://slashfrontend.vercel.app)
+- **[SlashMarket](https://github.com/kaushalya4s5s7/slashfrontend)** — Tezos L1 + Etherlink L2. PT/YT strip + AI baker selection. [3rd at Now Media × Etherlink/Tezos, $1k](https://x.com/Kaushaly4s5s7/status/2044699627342201130). [Live](https://slashfrontend.vercel.app)
 - **[Bhishi](https://github.com/kaushalya4s5s7/bhishi)** — non-custodial ROSCA on Monad. [Live](https://bhishi.up.railway.app)
-- **[Zera](https://github.com/kaushalya4s5s7/Zera_AI)** — generate, test, audit, document a contract. EduChain winner.
+- **[Zera](https://github.com/kaushalya4s5s7/Zera_AI)** — generate, test, audit, document a contract. [Open Campus Semester 3](https://x.com/opencampus_xyz/status/1925476891651412133): won 2 tracks, $3k total, invited into the OC Incubator.
 - **[ReVault](https://github.com/18Abhinav07/ReVault/pull/1)** — per-issuance dual-tranche (Reg-D / Reg-S), clone factory + NAV oracle. Merged.
 - **[KeeperHub #2439](https://github.com/KeeperHub/keeperhub/pull/2439)** — coerce `gasLimitMultiplier` on every execute write route + MCP transfer schema. Merged.
 - **[altana-sdk #100](https://github.com/altananetwork/altana-sdk/issues/100)** — MCP session grant/revoke persisted local state when the SDK returned `failed`.
