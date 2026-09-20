@@ -51,7 +51,7 @@ Contributed as [GanuC555](https://github.com/GanuC555) (34 commits on [Tess-Clie
 Not the main story. Still shipped.
 
 - **[Envo](https://github.com/kaushalya4s5s7/envo)** — HVAC agent from block-level heat + air quality. [Live](https://envo.up.railway.app)
-- **[Noketa](https://github.com/Noketa-io/noketa/pull/12)** — omnichannel messaging (SMS, Push, WhatsApp, Instagram). 6 PRs merged.
+- **[Noketa](https://noketa.io)** — helping a Czech founder ([Pavel Buchta](https://www.linkedin.com/in/pavelbuchta)) take transactional/omnichannel email **0 → 1**, now scaling **1 → 100**. Shipped SMS, Push, WhatsApp, Instagram + settings end-to-end ([6 PRs](https://github.com/Noketa-io/noketa/pull/12)).
 - **[Plumbline](https://github.com/ByteBell/Plumbline/pull/85)** — one-command install + Ink TUI wizard. Also filed the [plaintext API-key issue](https://github.com/ByteBell/Plumbline/issues/100).
 
 [kaushalchaudhari26@gmail.com](mailto:kaushalchaudhari26@gmail.com)
