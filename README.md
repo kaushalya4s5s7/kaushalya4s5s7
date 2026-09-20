@@ -24,6 +24,12 @@ Contributed as [GanuC555](https://github.com/GanuC555) (34 commits on [Tess-Clie
 
 ---
 
+## Research
+
+**[MEC-assisted PoW mining](https://github.com/kaushalya4s5s7/MEC-Assisted-PoW-Blockchain-Simulator)** — IIIT Guwahati. Discrete-event sim of offloading Proof-of-Work from mobiles onto an edge computing provider, plus multi-coalition mining. Bloom-filter tx sync: **84.6% bandwidth cut** (689 → 106 KB/s), flat scaling from J=3 to J=7, ~80% latency cut on dual-channel delivery.
+
+---
+
 ## On-chain work
 
 - **[Loyalty Lock](https://github.com/kaushalya4s5s7/loyalty-lock-hook)** — Uniswap v4 hook. Time-decaying LP exit fee, donated to remaining LPs. Live on Sepolia.
