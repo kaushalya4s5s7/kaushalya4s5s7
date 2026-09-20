@@ -14,13 +14,13 @@ Solidity · Rust/Soroban · TypeScript · Stellar/SDP · EVM · Foundry · Postg
 
 **1. [PayZoll](https://github.com/PayZoll-Orgs)** — founding engineer. B2B cross-border payroll on Stellar (USDC/EUROC). JIT FX, unsigned XDR on the server, Freighter sign in-browser. Keys never leave the client. The team collectively won **[$100k in XLM from Stellar Community Fund #36](https://medium.com/stellar-community/scf-36-round-recap-b35e675dee10)**. [PRs](https://github.com/PayZoll-Orgs/PayZoll-Stellar-Client-v.1/pulls?q=is%3Apr+author%3Akaushalya4s5s7)
 
-**2. [TheOpenAssets](https://github.com/TheOpenAssets/TOA-Client)** — ERC-3643 / T-REX. Identity-bound transfers, modular compliance, chain-agnostic RWA execution (Mantle, Creditcoin, Stellar). [Client](https://github.com/TheOpenAssets/TOA-Client) · [Server](https://github.com/TheOpenAssets/TOA-Server)
+**2. [TheOpenAssets](https://github.com/TheOpenAssets/TOA-Client)** — ERC-3643 / T-REX. Identity-bound transfers, modular compliance, chain-agnostic RWA execution (Mantle, Creditcoin, Stellar). [Client](https://github.com/TheOpenAssets/TOA-Client) · [Server](https://github.com/TheOpenAssets/TOA-Server) · [X](https://x.com/TheOpenAssets) · [architecture](https://open-assets-core-proposal.notion.site/Open-Assets-Mantle-Network-2d5316cd01a780818164c5889beb1a19) · [pitch](https://www.canva.com/design/DAG2JKBFk-s/0SJRXDvPXhVEFC887f3EbA/view?utm_content=DAG2JKBFk-s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h488a45ef02&continue_in_browser=true#8)
 
 Credora (RWA line): [OneChain 1st, $3k](https://onehackathon.com/1-0/winners) · U2U $4k · Mantle RWA $2k — only winner on that track that was not already funded.
 
-**3. [AgenticOperations](https://github.com/AgenticOperations)** — on-chain policy / spending firewall for autonomous agents. [Casper](https://github.com/AgenticOperations/Casper-AGOPS.Client) ([live](https://aops-casper.up.railway.app)) · [Arc](https://github.com/AgenticOperations/AOPS-PMOA) ([live](https://agentops.up.railway.app))
+**3. [AgenticOperations](https://github.com/AgenticOperations)** — on-chain policy / spending firewall for autonomous agents. [Casper](https://github.com/AgenticOperations/Casper-AGOPS.Client) ([live](https://aops-casper.up.railway.app)) · [Arc](https://github.com/AgenticOperations/AOPS-PMOA) ([live](https://agentops.up.railway.app)) · [demo](https://x.com/Kaushaly4s5s7/status/2082779793557434477) · [pitch](https://www.canva.com/design/DAHR02R61qU/KYDDwhhX_3aPqNjkhN5Bqg/view?utm_content=DAHR02R61qU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5be0a20f82&continue_in_browser=true) · [architecture](https://aops.tiiny.site)
 
-**4. [Tesseract Protocol](https://github.com/The-Tesseract-Protocol)** — confidential institutional settlement on Stellar/Soroban. Decouples business intent from public finality (deposit → wait → withdraw, relayers, distributors, batch rails). [Site](https://tesseractprotocol.xyz)
+**4. [Tesseract Protocol](https://github.com/The-Tesseract-Protocol)** — confidential institutional settlement on Stellar/Soroban. Decouples business intent from public finality (deposit → wait → withdraw, relayers, distributors, batch rails). [Site](https://tesseractprotocol.xyz) · [architecture](https://tessfi.gitbook.io/docs-tess)
 
 Contributed as [GanuC555](https://github.com/GanuC555) (34 commits on [Tess-Client](https://github.com/The-Tesseract-Protocol/Tess-Client.v.0)): waitlist, token mapping, deposit-notify multi-token, withdraw path, privacy service, bulk batch pay + wallet, auth-tree viz. On [Tess-Server](https://github.com/The-Tesseract-Protocol/Tess-Server.v.0/pull/7): waitlist GET API.
 
@@ -35,7 +35,7 @@ Contributed as [GanuC555](https://github.com/GanuC555) (34 commits on [Tess-Clie
 ## On-chain work
 
 - **[Loyalty Lock](https://github.com/kaushalya4s5s7/loyalty-lock-hook)** — Uniswap v4 hook. Time-decaying LP exit fee, donated to remaining LPs. Live on Sepolia.
-- **[SlashMarket](https://github.com/kaushalya4s5s7/slashfrontend)** — Tezos L1 + Etherlink L2. PT/YT strip + AI baker selection. [3rd at Now Media × Etherlink/Tezos, $1k](https://x.com/Kaushaly4s5s7/status/2044699627342201130). [Live](https://slashfrontend.vercel.app)
+- **[SlashMarket](https://github.com/kaushalya4s5s7/slashfrontend)** — Tezos L1 + Etherlink L2. PT/YT strip + AI baker selection. [3rd at Now Media × Etherlink/Tezos, $1k](https://x.com/Kaushaly4s5s7/status/2044699627342201130). [Live](https://slashfrontend.vercel.app) · [pitch](https://canva.link/89dei1prszi3rtx)
 - **[Bhishi](https://github.com/kaushalya4s5s7/bhishi)** — non-custodial ROSCA on Monad. [Live](https://bhishi.up.railway.app)
 - **[Zera](https://github.com/kaushalya4s5s7/Zera_AI)** — generate, test, audit, document a contract. [Open Campus Semester 3](https://x.com/opencampus_xyz/status/1925476891651412133): won 2 tracks, $3k total, invited into the OC Incubator.
 - **[ReVault](https://github.com/18Abhinav07/ReVault/pull/1)** — per-issuance dual-tranche (Reg-D / Reg-S), clone factory + NAV oracle. Merged.
