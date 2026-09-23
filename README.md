@@ -1,6 +1,6 @@
 # KC
 
-Full-stack engineer. I ship the client, the server, and the glue — from first principles, not from a favorite stack. A lot of that product has been Web3 (payroll, RWA, agent auth). The job is still the system, not the chain.
+Full-stack web3 engineer. I ship the client, the server, and the glue — from first principles, not from a favorite stack. A lot of that product has been Web3 (payroll, RWA, agent auth). The job is still the system, not the chain.
 
 > **Syntax is cheap. Constraints aren't.** High concurrency is a queueing problem. Low latency is a locality problem. They are usually enemies. I pick the tool the environment needs, not the one I already know.
 
