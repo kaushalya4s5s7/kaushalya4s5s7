@@ -43,16 +43,23 @@ Selected Web3 product and protocol work — still client + server + contracts, n
 - **[Bhishi](https://github.com/kaushalya4s5s7/bhishi)** — non-custodial ROSCA on Monad. [Live](https://bhishi.up.railway.app)
 - **[Zera](https://github.com/kaushalya4s5s7/Zera_AI)** — generate, test, audit, document a contract. [Open Campus Semester 3](https://x.com/opencampus_xyz/status/1925476891651412133): won 2 tracks, $3k total, invited into the OC Incubator.
 - **[ReVault](https://github.com/18Abhinav07/ReVault/pull/1)** — per-issuance dual-tranche (Reg-D / Reg-S), clone factory + NAV oracle. Merged.
-- **[KeeperHub #2439](https://github.com/KeeperHub/keeperhub/pull/2439)** — coerce `gasLimitMultiplier` on every execute write route + MCP transfer schema. Merged.
-- **[altana-sdk #100](https://github.com/altananetwork/altana-sdk/issues/100)** — MCP session grant/revoke persisted local state when the SDK returned `failed`.
 
 5× hackathon winner · BNB Chain Martian
+
+---
+
+## Open source
+
+Fixes and reports on other people's repos. Each one is a specific bug, with the PR or issue linked.
+
+- **[KeeperHub #2439](https://github.com/KeeperHub/keeperhub/pull/2439)** — merged. `gasLimitMultiplier` was dropped on `POST /api/execute/transfer` and cast with `as string` on contract-call and check-and-execute. Coerce it to the string the cores already parse, on all three write routes and on MCP `execute_transfer`, including the canvas `{mode, value}` object. Part B of [#1973](https://github.com/KeeperHub/keeperhub/issues/1973) (contract-call gas blowup) stays on the issue.
+- **[altana-sdk #100](https://github.com/altananetwork/altana-sdk/issues/100)** — open. `grant_session` and `revoke_session` write local keychain state even when the SDK returns `status: "failed"`. A failed grant then blocks that session name. A failed revoke deletes the only local copy of the public key, so the next revoke cannot find it.
+- **[Plumbline #85](https://github.com/ByteBell/Plumbline/pull/85)** — merged. `install.sh` for curl-pipe install, plus an Ink TUI (`bytebell setup`: provider, masked credentials, optional repo index). Also filed [#100](https://github.com/ByteBell/Plumbline/issues/100): `openrouter_api_key` is stored as plaintext in `~/.bytebell/config.json`, while the CLI hints at a keychain command that does not exist.
 
 ---
 
 ## Also
 
 - **[Envo](https://github.com/kaushalya4s5s7/envo)** — HVAC agent from block-level heat + air quality. [Live](https://envo.up.railway.app)
-- **[Plumbline](https://github.com/ByteBell/Plumbline/pull/85)** — one-command install + Ink TUI wizard. Also filed the [plaintext API-key issue](https://github.com/ByteBell/Plumbline/issues/100).
 
 [kaushalchaudhari26@gmail.com](mailto:kaushalchaudhari26@gmail.com)
